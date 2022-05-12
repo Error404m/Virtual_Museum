@@ -44,7 +44,7 @@ A virtual museum is a digital entity that draws on the characteristics of a muse
 |   --------------  |   ----   | -------- |
 |    IIT2019239  |  Mrityunjaya Tiwari  | [Error404m ](https://github.com/Error404m) |
 |    IIT2019222  |   Rauank Singh Rathore  | [Error404r ](https://github.com/Error404r) |
-|    IIB2019006  |   Aditya Sir |  [Amanjeetk11 ](https://github.com/Amanjeetk11) |
+|    MIT2021006  |   Aditya Sir |  [Amanjeetk11 ](https://github.com/Amanjeetk11) |
 |    IIT2019202  |   Khushboo Mam | [Jyo123-verma ](https://github.com/Jyo123-verma) |
 
 
