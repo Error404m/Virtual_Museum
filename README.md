@@ -143,24 +143,7 @@ Now system will auto show status of crops ,if disease detected it will shoe name
 
 
 <!-- Usage -->
-## Model Predictions
 
- > ### When no disease detected on plant
-  
- <br> <img src="ss/healthy_plant.png"  height="370" /> <br>
-  
- > ### When no disease detected on plant leafs
-<br>  <img src="ss/healthy_plant_leaf.png"  height="370" /> <br>
-  
- > ### When disease detected on plant
- <br> <img src="ss/dis_palnt.png"  height="370" /> <br>
-  
- > ### When disease detected on plant leafs
- <br> <img src="ss/dis_plant_leaf.png"  height="370" /> <br>
- 
- > ###    Disease cure recommendations
- <br> <img src="ss/dis_rec.png"  height="370" /> <br>
- 
 <!-- Acknowledgements -->
 ## Team Members  
    
