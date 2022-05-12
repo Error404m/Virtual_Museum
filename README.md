@@ -21,13 +21,7 @@ AGA Course Project
     <li><a href="#How-to-use">How to use</a></li>
     <li>
       <a href="#model-predictions">Model Predictions</a>
-      <ul>
-        <li><a href="#when-no-disease-detected-on-plant">When no disease detected on plant</a></li>
-        <li><a href="#when-no-disease-detected-on-plant-leafs">When no disease detected on plant leafs</a></li>
-        <li><a href="#when-disease-detected-on-plant">When disease detected on plant</a></li>
-        <li><a href="#when-disease-detected-on-plant-leafs">When disease detected on plant leafs</a></li>
-        <li><a href="#Disease-cure-recommendations">Disease cure recommendations</a></li>
-      </ul>
+     
     </li>
      <li><a href="#team-members">Team Members</a></li>
      <li><a href="#Important-Project-Links">Important Project Links</a></li>
