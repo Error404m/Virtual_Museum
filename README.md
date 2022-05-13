@@ -38,8 +38,7 @@ A virtual museum is a digital entity that draws on the characteristics of a muse
 |    MIT2021006  |   Aditya Gupta |  [Amanjeetk11 ](https://github.com/Amanjeetk11) |
 |    MIT2021045  |   KM Khushboo  | [Jyo123-verma ](https://github.com/Jyo123-verma) |
 
-
-## Built With
+##Built With
 <ul>
    <li>Unity3D</li>
    <li>Blender</li>
@@ -94,7 +93,6 @@ Clone the repo https://github.com/Error404m/Virtual_Museum
 <!-- Important Project Links -->
 ## Important Project Links
 * [Website Frontend (only for demo) ](https://amanjeetk11.github.io/ivp/Web%20part/index.html)
-
 * [Report Docs](https://docs.google.com/document/d/1N2cJzXMHgafnGbFwMuwkMoBFXq-IFKqd/edit?usp=sharing&ouid=106325517518387886428&rtpof=true&sd=truet#)
 * [PPT Presentation](https://docs.google.com/presentation/d/1ONxbYscmATfBJObDEtbWHGUU-6h4XghpkQJDrWUM5SQ/edit?usp=sharing)
 
