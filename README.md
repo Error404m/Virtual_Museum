@@ -19,10 +19,7 @@ AGA Course Project
       </ul>
     </li>
     <li><a href="#How-to-use">How to use</a></li>
-    <li>
-      <a href="#model-predictions">Model Predictions</a>
-     
-    </li>
+   
      <li><a href="#team-members">Team Members</a></li>
      <li><a href="#Important-Project-Links">Important Project Links</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
