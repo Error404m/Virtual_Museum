@@ -57,76 +57,16 @@ A virtual museum is a digital entity that draws on the characteristics of a muse
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Prerequisites 
 
 This is an example of how to list things you need to use the software and how to install them.
-  * Create the Virtual Environment
-  ```sh
-  $ python3 -m venv venv
-  ```
-  
-  * Activate the virtual environment
-  ```sh
-  $ source venv/bin/activate
-  ```
-  
-  * Install Falsk
-  ```sh
-  $ pip3 install Flask
-  ```
-  
-  * Install NumPy
-  ```sh
-  $ python -m pip install numpy
-  ```
-  
-  * Install Pandas
-  ```sh
-  $ python -m pip install pandas
-  ```
-  
-  * Install Matplotlib
-  ```sh
-  $ python -m pip install matplotlib
-  ```
-  
-  * Install OpenCV
-  ```sh
-  $ python -m pip install opencv-python
-  ```
-  
-  * Install Keras
-  ```sh
-  $ python -m pip install keras
-  ```
-  
-  * Install TensorFlow
-  ```sh
-  $ python -m pip install tensorflow
-  ```
+  * Software: UNITY 3D
+
+
   
  ### Installation
 
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/Amanjeetk11/ivp.git
-   ```
-2. Change directory to main file
-   ```sh
-   cd model_codes
-   ```
-3. Install requirements.txt
-   ```sh
-   pip install requirements.txt 
-   ```
-4. Set the FLASK_APP system variable
-   ```sh
-   $ export FLASK_APP=app.py
-   ```
-5. Run Flask
-   ```sh
-   $ flask run
    ```
 Clone the repo https://github.com/Error404m/Virtual_Museum
 
