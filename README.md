@@ -128,18 +128,18 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    $ flask run
    ```
-Visit http://127.0.0.1:5000 to see your app in action 
+Clone the repo https://github.com/Error404m/Virtual_Museum
 
 <!-- Usage -->
 ## How to use
-1.Go through webpage link http://127.0.0.1:5000 
+1.Clone the repo https://github.com/Error404m/Virtual_Museum
 <br> <img src="ss/landing_page.png"  height="370" />
 
-2. Tap on choose file.
-3. Upload or click picture of crops.
-4. Click on predict
+2. Open Unity3D
+3. Tap on Build and run.
+4. Wohoooo, Project is live . Now use "D" or "right arrow key" for left turn , "A" or left arrow key for left turn. W or UP KEY for move forward, S or Down key for back movement, and space key for jump .
 
-Now system will auto show status of crops ,if disease detected it will shoe name and their cure.
+
 
 
 <!-- Usage -->
