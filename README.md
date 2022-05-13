@@ -30,7 +30,7 @@ AGA Course Project
 ## About The Project
 A virtual museum is a digital entity that draws on the characteristics of a museum, in order to complement, enhance, or augment the museum experience through personalization, interactivity and richness of content.
 
-<!-- ## Team Members
+ ## Team Members
 |   Enrollment No.  |   Name   | Github ID |
 |   --------------  |   ----   | -------- |
 |    IIT2019239  |  Mrityunjaya Tiwari  | [Error404m ](https://github.com/Error404m) |
