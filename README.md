@@ -97,9 +97,9 @@ Clone the repo https://github.com/Error404m/Virtual_Museum
 <!-- Important Project Links -->
 ## Important Project Links
 * [Website Frontend (only for demo) ](https://amanjeetk11.github.io/ivp/Web%20part/index.html)
-* [Google colab Link](https://colab.research.google.com/drive/1s0LwOQbv54WbKTxh9PvEtcFiVrercUxK?usp=sharing)
-* [Report Docs](https://docs.google.com/document/d/1KTymgQa6YGZmuw8pNrisI0JCPPe5htt6/edit#)
-* [PPT Presentation](https://towardsdatascim/build-your-first-machine-learning-model-using-tensorflow-d61b9b2b7d5e)
+
+* [Report Docs](https://docs.google.com/document/d/1N2cJzXMHgafnGbFwMuwkMoBFXq-IFKqd/edit?usp=sharing&ouid=106325517518387886428&rtpof=true&sd=truet#)
+* [PPT Presentation](https://docs.google.com/presentation/d/1ONxbYscmATfBJObDEtbWHGUU-6h4XghpkQJDrWUM5SQ/edit?usp=sharing)
 
 
 
