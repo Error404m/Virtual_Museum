@@ -19,6 +19,10 @@ Uder supervision of Prof. Anupam Agarwaal
       </ul>
     </li>
     <li><a href="#how-to-use">How to use</a></li>
+    <ul>
+        <li><a href="#iiit-allahabad-virtual-museum-outside-look">Museum outer look</a></li>
+        <li><a href="#interactions-of-artifacts-with-avtar">Interfaction with artifacts by Virtual Avtar</a></li>
+      </ul>
      <li><a href="#team-members">Team Members</a></li>
      <li><a href="#important-project-links">Important Project Links</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
@@ -59,18 +63,16 @@ Clone the repo https://github.com/Error404m/Virtual_Museum
 <!-- Usage -->
 ### How to use
 1.Clone the repo https://github.com/Error404m/Virtual_Museum
-<br> <img src="ss/landing_page.png"  height="370" />
 
 2. Open Unity3D
 3. Tap on Build and run.
 4. Wohoooo, Project is live . Now use "D" or "right arrow key" for left turn , "A" or left arrow key for left turn. W or UP KEY for move forward, S or Down key for back movement, and space key for jump .
 
-
-## IIIT Allahabad Virtual Museum outside look
-This is the view from outside of virtual museum . Start navigating Avtar anywhere by pressing as above stated keys.
+### IIIT Allahabad Virtual Museum outside look
+This is the view from outside of virtual museum .  Now navigate Avtar by pressing "D" or "right arrow key" for left turn , "A" or left arrow key for left turn. W or UP KEY for move forward, S or Down key for back movement, and space key for jump .
 <br><br> <img src="demo/1.png"  height="400" />
 
-## Interactions of Artifacts with Avtar
+### Interactions of Artifacts with Avtar
 Artifacts are set up minimum and maximum threshold values , whenever Avtar will come in range of minimum threshold value, It automatically starts speaking and vice versa when Avtar will be away from maximum threshold range ,then audio demonstartion will be stopped .
 <br><br> <img src="demo/2.png"  height="400" />
 <!-- <br> <img src="demo/3.png"  height="370" /> -->
