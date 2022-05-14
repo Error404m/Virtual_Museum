@@ -110,6 +110,7 @@ Now use keys for navigating the Avtar.
 6. Scene movement (Upside)
    ```sh
    use Q key for down side movement.
+    ```
 7. Jump
    ```sh
    use space key for Avtar jump.
