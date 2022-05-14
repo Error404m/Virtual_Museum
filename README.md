@@ -1,4 +1,4 @@
-## Virtual_Museum
+## Virtual Museum
 #### AGA Course Project
 Uder supervision of Prof. Anupam Agarwaal
 <hr>
