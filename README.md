@@ -76,16 +76,44 @@ This is an example of how to list things you need to use the software and how to
 6. Open Projec
 7. Then, browse to where that project is located
 8. Select that project. Then, open it.
+9. Tap on Build and run.
+10. Wohoooo, Project is live .
  
 
 <hr>
+
 <!-- Usage -->
 ### How to use
+Now use keys for navigating the Avtar.
 
-2. 
-3. Tap on Build and run.
-4. Wohoooo, Project is live . Now use "D" or "right arrow key" for left turn , "A" or left arrow key for left turn. W or UP KEY for move forward, S or Down key for back movement, and space key for jump .
-
+1. Left Move
+   ```sh
+   Use "A" or "left arrow key" for left turn.
+   ```
+2. Right Move
+   ```sh
+    Use "D" or "right arrow key" for right turn
+   ```
+3. Forward move
+   ```sh
+   Use "W" or "up arrow key" for forward move
+   ```
+4. Backward move
+   ```sh
+   Use "S" or "down arrow key" for backward move
+   ```
+5. Scene movement (Upside)
+   ```sh
+   use E key for down side movement.
+   ```
+6. Scene movement (Upside)
+   ```sh
+   use Q key for down side movement.
+7. Jump
+   ```sh
+   use space key for Avtar jump.
+   ```
+   
 ### IIIT Allahabad Virtual Museum outside look
 This is the view from outside of virtual museum .  Now navigate Avtar by pressing "D" or "right arrow key" for left turn , "A" or left arrow key for left turn. W or UP KEY for move forward, S or Down key for back movement, and space key for jump .
 <br><br> <img src="demo/1.png"  height="400" />
