@@ -1,7 +1,7 @@
 ## Virtual_Museum
-AGA Course Project
-
-#### Faculty Name- Prof. Anupam Agarwaal
+#### AGA Course Project
+Uder supervision of Prof. Anupam Agarwaal
+<hr>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -18,27 +18,20 @@ AGA Course Project
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#How-to-use">How to use</a></li>
-   
+    <li><a href="#how-to-use">How to use</a></li>
      <li><a href="#team-members">Team Members</a></li>
-     <li><a href="#Important-Project-Links">Important Project Links</a></li>
+     <li><a href="#important-project-links">Important Project Links</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
-
+<hr>
 
 ## About The Project
 A virtual museum is a digital entity that draws on the characteristics of a museum, in order to complement, enhance, or augment the museum experience through personalization, interactivity and richness of content.
 
- ## Team Members
-|   Enrollment No.  |   Name   | Github ID |
-|   --------------  |   ----   | -------- |
-|    IIT2019239  |  Mrityunjaya Tiwari  | [Error404m ](https://github.com/Error404m) |
-|    IIT2019222  |   Rauank Singh Rathore  | [Error404r ](https://github.com/Error404r) |
-|    MIT2021006  |   Aditya Gupta |  [Amanjeetk11 ](https://github.com/Amanjeetk11) |
-|    MIT2021045  |   KM Khushboo  | [Jyo123-verma ](https://github.com/Jyo123-verma) |
+<hr>
 
-##Built With
+## Built With
 <ul>
    <li>Unity3D</li>
    <li>Blender</li>
@@ -46,6 +39,7 @@ A virtual museum is a digital entity that draws on the characteristics of a muse
   <li>Javascript</li>
 </ul>
 
+<hr>
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -58,16 +52,12 @@ To get a local copy up and running follow these simple example steps.
 This is an example of how to list things you need to use the software and how to install them.
   * Software: UNITY 3D
 
-
-  
  ### Installation
-
-
    
 Clone the repo https://github.com/Error404m/Virtual_Museum
 
 <!-- Usage -->
-## How to use
+### How to use
 1.Clone the repo https://github.com/Error404m/Virtual_Museum
 <br> <img src="ss/landing_page.png"  height="370" />
 
@@ -75,10 +65,8 @@ Clone the repo https://github.com/Error404m/Virtual_Museum
 3. Tap on Build and run.
 4. Wohoooo, Project is live . Now use "D" or "right arrow key" for left turn , "A" or left arrow key for left turn. W or UP KEY for move forward, S or Down key for back movement, and space key for jump .
 
-
-
-
 <!-- Usage -->
+<hr>
 
 <!-- Acknowledgements -->
 ## Team Members  
@@ -90,13 +78,12 @@ Clone the repo https://github.com/Error404m/Virtual_Museum
 | <img src='https://dbms.redixolabs.in/img/20210429_210617.jpg' width='55' height='55'>| ADITYA GUPTA| MIT2021006  
 | <img src='https://dbms.redixolabs.in/img/jyoti.jpeg' width='55' height='55'> | Khushbooooo Mam| MIT2021045
 
+<hr>
+
 <!-- Important Project Links -->
 ## Important Project Links
-* [Website Frontend (only for demo) ](https://amanjeetk11.github.io/ivp/Web%20part/index.html)
-* [Report Docs](https://docs.google.com/document/d/1N2cJzXMHgafnGbFwMuwkMoBFXq-IFKqd/edit?usp=sharing&ouid=106325517518387886428&rtpof=true&sd=truet#)
-* [PPT Presentation](https://docs.google.com/presentation/d/1ONxbYscmATfBJObDEtbWHGUU-6h4XghpkQJDrWUM5SQ/edit?usp=sharing)
-
-
-
+* [Website Frontend (only for demo) ]()
+* [Report Docs]()
+* [PPT Presentation]()
 
 
