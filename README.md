@@ -55,16 +55,34 @@ To get a local copy up and running follow these simple example steps.
 
 This is an example of how to list things you need to use the software and how to install them.
   * Software: UNITY 3D
+  * Unity 3d editor (Prefer 2020.3.30f1 LTS)
 
  ### Installation
-   
-Clone the repo https://github.com/Error404m/Virtual_Museum
 
+1. Clone the repo
+   ```sh
+   git clone https://github.com/Error404m/Virtual_Museum
+   ```
+2. Change directory to main file
+   ```sh
+   cd Virtual_Museum
+   ```
+3. Install Unity3d
+   ```sh
+   install Unity hub and thier unity3d editor enviornment (prefer 2020.3.30f1 LTS).
+   ```
+4. Setup the Unity3D software and open.
+5. Go to File
+6. Open Projec
+7. Then, browse to where that project is located
+8. Select that project. Then, open it.
+ 
+
+<hr>
 <!-- Usage -->
 ### How to use
-1.Clone the repo https://github.com/Error404m/Virtual_Museum
 
-2. Open Unity3D
+2. 
 3. Tap on Build and run.
 4. Wohoooo, Project is live . Now use "D" or "right arrow key" for left turn , "A" or left arrow key for left turn. W or UP KEY for move forward, S or Down key for back movement, and space key for jump .
 
