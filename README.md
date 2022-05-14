@@ -149,5 +149,3 @@ Artifacts are set up minimum and maximum threshold values , whenever Avtar will 
 * [Website Frontend (only for demo) ]()
 * [Report Docs]()
 * [PPT Presentation]()
-
-
