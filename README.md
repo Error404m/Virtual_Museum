@@ -23,6 +23,7 @@ Uder supervision of Prof. Anupam Agarwaal
         <li><a href="#iiit-allahabad-virtual-museum-outside-look">Museum outer look</a></li>
         <li><a href="#interactions-of-artifacts-with-avtar">Interfaction with artifacts by Virtual Avtar</a></li>
       </ul>
+     <li><a href="#demo-video">Demo Video</a></li>
      <li><a href="#team-members">Team Members</a></li>
      <li><a href="#important-project-links">Important Project Links</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
@@ -124,6 +125,11 @@ Artifacts are set up minimum and maximum threshold values , whenever Avtar will 
 <!-- <br> <img src="demo/3.png"  height="370" /> -->
 
 <!-- Usage -->
+<hr>
+
+## Demo Video
+[![Watch the video](demo/4.png)](https://drive.google.com/file/d/1D_P6y_Q1rS1wJEiU-l4j0-WtrBpyqF4m/view?usp=sharing)
+
 <hr>
 
 <!-- Acknowledgements -->
